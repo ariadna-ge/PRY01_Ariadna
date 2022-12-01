@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 void Diccionario(char* archNombre, char palabras[][TAMTOKEN])
 {
 
@@ -61,4 +64,7 @@ void Diccionario(char* archNombre, char palabras[][TAMTOKEN])
 		}
 
 	}
+}
+int main(){
+	//lectura de las funciones
 }
